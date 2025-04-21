@@ -1,1 +1,1 @@
-This Project uses my notifications class and StockPrices class to get stock prices from finnhub, and do acations like sedna notification using the pushover api or flash my clock a certain color pattern if stock price is lower than a threshold
+This Project uses my notifications class and StockPrices class to get stock prices from finnhub, and do actions like send a notification using the Pushover api or flash my clock a certain RGB color pattern if stock price is lower than a threshold.
