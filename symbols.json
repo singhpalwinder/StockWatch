@@ -1,0 +1,3002 @@
+[
+            {
+                "s": "AAPL",
+                "n": "Apple Inc.",
+                "industry": "Consumer Electronics",
+                "marketCap": 2959047939540
+            },
+            {
+                "s": "MSFT",
+                "n": "Microsoft Corporation",
+                "industry": "Software - Infrastructure",
+                "marketCap": 2734069986388
+            },
+            {
+                "s": "NVDA",
+                "n": "NVIDIA Corporation",
+                "industry": "Semiconductors",
+                "marketCap": 2476356000000
+            },
+            {
+                "s": "GOOG",
+                "n": "Alphabet Inc.",
+                "industry": "Internet Content & Information",
+                "marketCap": 1854733800000
+            },
+            {
+                "s": "GOOGL",
+                "n": "Alphabet Inc.",
+                "industry": "Internet Content & Information",
+                "marketCap": 1842640400000
+            },
+            {
+                "s": "AMZN",
+                "n": "Amazon.com, Inc.",
+                "industry": "Internet Retail",
+                "marketCap": 1831800149522
+            },
+            {
+                "s": "META",
+                "n": "Meta Platforms, Inc.",
+                "industry": "Internet Content & Information",
+                "marketCap": 1270579448212
+            },
+            {
+                "s": "BRK.A",
+                "n": "Berkshire Hathaway Inc.",
+                "industry": "Insurance - Diversified",
+                "marketCap": 1120483341216
+            },
+            {
+                "s": "BRK.B",
+                "n": "Berkshire Hathaway Inc.",
+                "industry": "Insurance - Diversified",
+                "marketCap": 1118779755696
+            },
+            {
+                "s": "AVGO",
+                "n": "Broadcom Inc.",
+                "industry": "Semiconductors",
+                "marketCap": 803986211120
+            },
+            {
+                "s": "TSLA",
+                "n": "Tesla, Inc.",
+                "industry": "Auto Manufacturers",
+                "marketCap": 776370717221
+            },
+            {
+                "s": "LLY",
+                "n": "Eli Lilly and Company",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 754274967274
+            },
+            {
+                "s": "WMT",
+                "n": "Walmart Inc.",
+                "industry": "Discount Stores",
+                "marketCap": 747330705170
+            },
+            {
+                "s": "TSM",
+                "n": "Taiwan Semiconductor Manufacturing Company Limited",
+                "industry": "Semiconductors",
+                "marketCap": 675248848246
+            },
+            {
+                "s": "JPM",
+                "n": "JPMorgan Chase & Co.",
+                "industry": "Banks - Diversified",
+                "marketCap": 644640036000
+            },
+            {
+                "s": "V",
+                "n": "Visa Inc.",
+                "industry": "Credit Services",
+                "marketCap": 643918425975
+            },
+            {
+                "s": "MA",
+                "n": "Mastercard Incorporated",
+                "industry": "Credit Services",
+                "marketCap": 472745975510
+            },
+            {
+                "s": "XOM",
+                "n": "Exxon Mobil Corporation",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 462460397486
+            },
+            {
+                "s": "COST",
+                "n": "Costco Wholesale Corporation",
+                "industry": "Discount Stores",
+                "marketCap": 441243098537
+            },
+            {
+                "s": "NFLX",
+                "n": "Netflix, Inc.",
+                "industry": "Entertainment",
+                "marketCap": 416220491013
+            },
+            {
+                "s": "UNH",
+                "n": "UnitedHealth Group Incorporated",
+                "industry": "Healthcare Plans",
+                "marketCap": 415380017539
+            },
+            {
+                "s": "PG",
+                "n": "The Procter & Gamble Company",
+                "industry": "Household & Personal Products",
+                "marketCap": 400102065023
+            },
+            {
+                "s": "JNJ",
+                "n": "Johnson & Johnson",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 379478721886
+            },
+            {
+                "s": "ORCL",
+                "n": "Oracle Corporation",
+                "industry": "Software - Infrastructure",
+                "marketCap": 360680577080
+            },
+            {
+                "s": "HD",
+                "n": "The Home Depot, Inc.",
+                "industry": "Home Improvement Retail",
+                "marketCap": 352904133555
+            },
+            {
+                "s": "KO",
+                "n": "The Coca-Cola Company",
+                "industry": "Beverages - Non-Alcoholic",
+                "marketCap": 314160377276
+            },
+            {
+                "s": "ABBV",
+                "n": "AbbVie Inc.",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 306015552311
+            },
+            {
+                "s": "SAP",
+                "n": "SAP SE",
+                "industry": "Software - Application",
+                "marketCap": 299805797246
+            },
+            {
+                "s": "TMUS",
+                "n": "T-Mobile US, Inc.",
+                "industry": "Telecom Services",
+                "marketCap": 299182847222
+            },
+            {
+                "s": "NVO",
+                "n": "Novo Nordisk A/S",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 284495358707
+            },
+            {
+                "s": "BAC",
+                "n": "Bank of America Corporation",
+                "industry": "Banks - Diversified",
+                "marketCap": 282822769226
+            },
+            {
+                "s": "PM",
+                "n": "Philip Morris International Inc.",
+                "industry": "Tobacco",
+                "marketCap": 254034439938
+            },
+            {
+                "s": "ASML",
+                "n": "ASML Holding N.V.",
+                "industry": "Semiconductor Equipment & Materials",
+                "marketCap": 252320530759
+            },
+            {
+                "s": "BABA",
+                "n": "Alibaba Group Holding Limited",
+                "industry": "Internet Retail",
+                "marketCap": 247391746648
+            },
+            {
+                "s": "CVX",
+                "n": "Chevron Corporation",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 242733720296
+            },
+            {
+                "s": "CRM",
+                "n": "Salesforce, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 237616860000
+            },
+            {
+                "s": "TM",
+                "n": "Toyota Motor Corporation",
+                "industry": "Auto Manufacturers",
+                "marketCap": 233314708435
+            },
+            {
+                "s": "ABT",
+                "n": "Abbott Laboratories",
+                "industry": "Medical Devices",
+                "marketCap": 227161680373
+            },
+            {
+                "s": "MCD",
+                "n": "McDonald's Corporation",
+                "industry": "Restaurants",
+                "marketCap": 222601952201
+            },
+            {
+                "s": "CSCO",
+                "n": "Cisco Systems, Inc.",
+                "industry": "Communication Equipment",
+                "marketCap": 221829586008
+            },
+            {
+                "s": "IBM",
+                "n": "International Business Machines Corporation",
+                "industry": "Information Technology Services",
+                "marketCap": 221439995125
+            },
+            {
+                "s": "PLTR",
+                "n": "Palantir Technologies Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 219947533133
+            },
+            {
+                "s": "LIN",
+                "n": "Linde plc",
+                "industry": "Specialty Chemicals",
+                "marketCap": 213812800730
+            },
+            {
+                "s": "WFC",
+                "n": "Wells Fargo & Company",
+                "industry": "Banks - Diversified",
+                "marketCap": 211288427566
+            },
+            {
+                "s": "NVS",
+                "n": "Novartis AG",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 209933754161
+            },
+            {
+                "s": "AZN",
+                "n": "AstraZeneca PLC",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 208105481405
+            },
+            {
+                "s": "MRK",
+                "n": "Merck & Co., Inc.",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 196278741984
+            },
+            {
+                "s": "PEP",
+                "n": "PepsiCo, Inc.",
+                "industry": "Beverages - Non-Alcoholic",
+                "marketCap": 195905036860
+            },
+            {
+                "s": "SHEL",
+                "n": "Shell plc",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 195421402892
+            },
+            {
+                "s": "T",
+                "n": "AT&T Inc.",
+                "industry": "Telecom Services",
+                "marketCap": 194887668450
+            },
+            {
+                "s": "GE",
+                "n": "General Electric Company",
+                "industry": "Aerospace & Defense",
+                "marketCap": 193893353508
+            },
+            {
+                "s": "VZ",
+                "n": "Verizon Communications Inc.",
+                "industry": "Telecom Services",
+                "marketCap": 185395362310
+            },
+            {
+                "s": "HSBC",
+                "n": "HSBC Holdings plc",
+                "industry": "Banks - Diversified",
+                "marketCap": 184366167578
+            },
+            {
+                "s": "ACN",
+                "n": "Accenture plc",
+                "industry": "Information Technology Services",
+                "marketCap": 176758391689
+            },
+            {
+                "s": "AXP",
+                "n": "American Express Company",
+                "industry": "Credit Services",
+                "marketCap": 176195834476
+            },
+            {
+                "s": "MS",
+                "n": "Morgan Stanley",
+                "industry": "Capital Markets",
+                "marketCap": 175616879420
+            },
+            {
+                "s": "ISRG",
+                "n": "Intuitive Surgical, Inc.",
+                "industry": "Medical Instruments & Supplies",
+                "marketCap": 172953464474
+            },
+            {
+                "s": "RTX",
+                "n": "RTX Corporation",
+                "industry": "Aerospace & Defense",
+                "marketCap": 172079740304
+            },
+            {
+                "s": "HDB",
+                "n": "HDFC Bank Limited",
+                "industry": "Banks - Regional",
+                "marketCap": 170848434832
+            },
+            {
+                "s": "GS",
+                "n": "The Goldman Sachs Group, Inc.",
+                "industry": "Capital Markets",
+                "marketCap": 165371257706
+            },
+            {
+                "s": "RY",
+                "n": "Royal Bank of Canada",
+                "industry": "Banks - Diversified",
+                "marketCap": 163950002945
+            },
+            {
+                "s": "INTU",
+                "n": "Intuit Inc.",
+                "industry": "Software - Application",
+                "marketCap": 163650003560
+            },
+            {
+                "s": "TMO",
+                "n": "Thermo Fisher Scientific Inc.",
+                "industry": "Diagnostics & Research",
+                "marketCap": 161377953120
+            },
+            {
+                "s": "NOW",
+                "n": "ServiceNow, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 159838874348
+            },
+            {
+                "s": "BX",
+                "n": "Blackstone Inc.",
+                "industry": "Asset Management",
+                "marketCap": 159272382353
+            },
+            {
+                "s": "UL",
+                "n": "Unilever PLC",
+                "industry": "Household & Personal Products",
+                "marketCap": 159011398873
+            },
+            {
+                "s": "UBER",
+                "n": "Uber Technologies, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 157346260497
+            },
+            {
+                "s": "PGR",
+                "n": "The Progressive Corporation",
+                "industry": "Insurance - Property & Casualty",
+                "marketCap": 155616376461
+            },
+            {
+                "s": "DIS",
+                "n": "The Walt Disney Company",
+                "industry": "Entertainment",
+                "marketCap": 153318573641
+            },
+            {
+                "s": "QCOM",
+                "n": "QUALCOMM Incorporated",
+                "industry": "Semiconductors",
+                "marketCap": 150266625603
+            },
+            {
+                "s": "BKNG",
+                "n": "Booking Holdings Inc.",
+                "industry": "Travel Services",
+                "marketCap": 150074086885
+            },
+            {
+                "s": "AMGN",
+                "n": "Amgen Inc.",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 149085141529
+            },
+            {
+                "s": "ADBE",
+                "n": "Adobe Inc.",
+                "industry": "Software - Application",
+                "marketCap": 148658560000
+            },
+            {
+                "s": "SONY",
+                "n": "Sony Group Corporation",
+                "industry": "Consumer Electronics",
+                "marketCap": 146600919915
+            },
+            {
+                "s": "SPGI",
+                "n": "S&P Global Inc.",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 145270532299
+            },
+            {
+                "s": "TJX",
+                "n": "The TJX Companies, Inc.",
+                "industry": "Apparel Retail",
+                "marketCap": 142564364151
+            },
+            {
+                "s": "AMD",
+                "n": "Advanced Micro Devices, Inc.",
+                "industry": "Semiconductors",
+                "marketCap": 141426033175
+            },
+            {
+                "s": "BSX",
+                "n": "Boston Scientific Corporation",
+                "industry": "Medical Devices",
+                "marketCap": 140689157044
+            },
+            {
+                "s": "CAT",
+                "n": "Caterpillar Inc.",
+                "industry": "Farm & Heavy Construction Machinery",
+                "marketCap": 140631498062
+            },
+            {
+                "s": "SCHW",
+                "n": "The Charles Schwab Corporation",
+                "industry": "Capital Markets",
+                "marketCap": 138282149075
+            },
+            {
+                "s": "NEE",
+                "n": "NextEra Energy, Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 136401412627
+            },
+            {
+                "s": "MUFG",
+                "n": "Mitsubishi UFJ Financial Group, Inc.",
+                "industry": "Banks - Diversified",
+                "marketCap": 136308386699
+            },
+            {
+                "s": "BLK",
+                "n": "BlackRock, Inc.",
+                "industry": "Asset Management",
+                "marketCap": 135765414130
+            },
+            {
+                "s": "TXN",
+                "n": "Texas Instruments Incorporated",
+                "industry": "Semiconductors",
+                "marketCap": 135068201201
+            },
+            {
+                "s": "DHR",
+                "n": "Danaher Corporation",
+                "industry": "Diagnostics & Research",
+                "marketCap": 133667576373
+            },
+            {
+                "s": "SYK",
+                "n": "Stryker Corporation",
+                "industry": "Medical Devices",
+                "marketCap": 132255181674
+            },
+            {
+                "s": "UNP",
+                "n": "Union Pacific Corporation",
+                "industry": "Railroads",
+                "marketCap": 132005822327
+            },
+            {
+                "s": "TTE",
+                "n": "TotalEnergies SE",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 130708145697
+            },
+            {
+                "s": "GILD",
+                "n": "Gilead Sciences, Inc.",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 130323167389
+            },
+            {
+                "s": "PDD",
+                "n": "PDD Holdings Inc.",
+                "industry": "Internet Retail",
+                "marketCap": 130113918919
+            },
+            {
+                "s": "BUD",
+                "n": "Anheuser-Busch InBev SA/NV",
+                "industry": "Beverages - Brewers",
+                "marketCap": 129793568061
+            },
+            {
+                "s": "CMCSA",
+                "n": "Comcast Corporation",
+                "industry": "Telecom Services",
+                "marketCap": 128592578660
+            },
+            {
+                "s": "HON",
+                "n": "Honeywell International Inc.",
+                "industry": "Conglomerates",
+                "marketCap": 126464320105
+            },
+            {
+                "s": "SNY",
+                "n": "Sanofi",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 126259056068
+            },
+            {
+                "s": "VRTX",
+                "n": "Vertex Pharmaceuticals Incorporated",
+                "industry": "Biotechnology",
+                "marketCap": 125738240800
+            },
+            {
+                "s": "PFE",
+                "n": "Pfizer Inc.",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 125566008541
+            },
+            {
+                "s": "DE",
+                "n": "Deere & Company",
+                "industry": "Farm & Heavy Construction Machinery",
+                "marketCap": 122698093979
+            },
+            {
+                "s": "LOW",
+                "n": "Lowe's Companies, Inc.",
+                "industry": "Home Improvement Retail",
+                "marketCap": 122575732260
+            },
+            {
+                "s": "BA",
+                "n": "The Boeing Company",
+                "industry": "Aerospace & Defense",
+                "marketCap": 121814771822
+            },
+            {
+                "s": "ADP",
+                "n": "Automatic Data Processing, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 119327095499
+            },
+            {
+                "s": "C",
+                "n": "Citigroup Inc.",
+                "industry": "Banks - Diversified",
+                "marketCap": 119193331601
+            },
+            {
+                "s": "BHP",
+                "n": "BHP Group Limited",
+                "industry": "Other Industrial Metals & Mining",
+                "marketCap": 118139719674
+            },
+            {
+                "s": "SPOT",
+                "n": "Spotify Technology S.A.",
+                "industry": "Internet Content & Information",
+                "marketCap": 117553042987
+            },
+            {
+                "s": "IBN",
+                "n": "ICICI Bank Limited",
+                "industry": "Banks - Regional",
+                "marketCap": 117344990677
+            },
+            {
+                "s": "FI",
+                "n": "Fiserv, Inc.",
+                "industry": "Information Technology Services",
+                "marketCap": 116552094867
+            },
+            {
+                "s": "CB",
+                "n": "Chubb Limited",
+                "industry": "Insurance - Property & Casualty",
+                "marketCap": 114431658280
+            },
+            {
+                "s": "COP",
+                "n": "ConocoPhillips",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 112485432932
+            },
+            {
+                "s": "AMAT",
+                "n": "Applied Materials, Inc.",
+                "industry": "Semiconductor Equipment & Materials",
+                "marketCap": 111678119104
+            },
+            {
+                "s": "PANW",
+                "n": "Palo Alto Networks, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 111027549000
+            },
+            {
+                "s": "LMT",
+                "n": "Lockheed Martin Corporation",
+                "industry": "Aerospace & Defense",
+                "marketCap": 108860660580
+            },
+            {
+                "s": "MMC",
+                "n": "Marsh & McLennan Companies, Inc.",
+                "industry": "Insurance Brokers",
+                "marketCap": 108434598143
+            },
+            {
+                "s": "SHOP",
+                "n": "Shopify Inc.",
+                "industry": "Software - Application",
+                "marketCap": 108311754483
+            },
+            {
+                "s": "MELI",
+                "n": "MercadoLibre, Inc.",
+                "industry": "Internet Retail",
+                "marketCap": 106432548154
+            },
+            {
+                "s": "ARM",
+                "n": "Arm Holdings plc",
+                "industry": "Semiconductors",
+                "marketCap": 106169420000
+            },
+            {
+                "s": "TD",
+                "n": "The Toronto-Dominion Bank",
+                "industry": "Banks - Diversified",
+                "marketCap": 106106174754
+            },
+            {
+                "s": "MDT",
+                "n": "Medtronic plc",
+                "industry": "Medical Devices",
+                "marketCap": 105938093513
+            },
+            {
+                "s": "ETN",
+                "n": "Eaton Corporation plc",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 105119559773
+            },
+            {
+                "s": "AMT",
+                "n": "American Tower Corporation",
+                "industry": "REIT - Specialty",
+                "marketCap": 104231118032
+            },
+            {
+                "s": "SAN",
+                "n": "Banco Santander, S.A.",
+                "industry": "Banks - Diversified",
+                "marketCap": 101101640763
+            },
+            {
+                "s": "SO",
+                "n": "The Southern Company",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 100697409707
+            },
+            {
+                "s": "BMY",
+                "n": "Bristol-Myers Squibb Company",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 100171392139
+            },
+            {
+                "s": "RIO",
+                "n": "Rio Tinto Group",
+                "industry": "Other Industrial Metals & Mining",
+                "marketCap": 99486747643
+            },
+            {
+                "s": "ENB",
+                "n": "Enbridge Inc.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 98746884870
+            },
+            {
+                "s": "MO",
+                "n": "Altria Group, Inc.",
+                "industry": "Tobacco",
+                "marketCap": 98077614952
+            },
+            {
+                "s": "PLD",
+                "n": "Prologis, Inc.",
+                "industry": "REIT - Industrial",
+                "marketCap": 96277868591
+            },
+            {
+                "s": "RELX",
+                "n": "RELX PLC",
+                "industry": "Specialty Business Services",
+                "marketCap": 96183698413
+            },
+            {
+                "s": "ELV",
+                "n": "Elevance Health, Inc.",
+                "industry": "Healthcare Plans",
+                "marketCap": 96108041270
+            },
+            {
+                "s": "WELL",
+                "n": "Welltower Inc.",
+                "industry": "REIT - Healthcare Facilities",
+                "marketCap": 95492410764
+            },
+            {
+                "s": "DUK",
+                "n": "Duke Energy Corporation",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 94641240989
+            },
+            {
+                "s": "CME",
+                "n": "CME Group Inc.",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 94611272856
+            },
+            {
+                "s": "CRWD",
+                "n": "CrowdStrike Holdings, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 93106212142
+            },
+            {
+                "s": "WM",
+                "n": "Waste Management, Inc.",
+                "industry": "Waste Management",
+                "marketCap": 92902580026
+            },
+            {
+                "s": "SBUX",
+                "n": "Starbucks Corporation",
+                "industry": "Restaurants",
+                "marketCap": 92578385302
+            },
+            {
+                "s": "BTI",
+                "n": "British American Tobacco p.l.c.",
+                "industry": "Tobacco",
+                "marketCap": 92031749072
+            },
+            {
+                "s": "KKR",
+                "n": "KKR & Co. Inc.",
+                "industry": "Asset Management",
+                "marketCap": 91818457596
+            },
+            {
+                "s": "ICE",
+                "n": "Intercontinental Exchange, Inc.",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 91138365100
+            },
+            {
+                "s": "ANET",
+                "n": "Arista Networks Inc",
+                "industry": "Computer Hardware",
+                "marketCap": 89791928835
+            },
+            {
+                "s": "CI",
+                "n": "The Cigna Group",
+                "industry": "Healthcare Plans",
+                "marketCap": 89500916723
+            },
+            {
+                "s": "UBS",
+                "n": "UBS Group AG",
+                "industry": "Banks - Diversified",
+                "marketCap": 89098184229
+            },
+            {
+                "s": "GEV",
+                "n": "GE Vernova Inc.",
+                "industry": "Utilities - Renewable",
+                "marketCap": 88440959174
+            },
+            {
+                "s": "SMFG",
+                "n": "Sumitomo Mitsui Financial Group, Inc.",
+                "industry": "Banks - Diversified",
+                "marketCap": 88182334893
+            },
+            {
+                "s": "ADI",
+                "n": "Analog Devices, Inc.",
+                "industry": "Semiconductors",
+                "marketCap": 87425774658
+            },
+            {
+                "s": "MCK",
+                "n": "McKesson Corporation",
+                "industry": "Medical Distribution",
+                "marketCap": 87362510182
+            },
+            {
+                "s": "MDLZ",
+                "n": "Mondelez International, Inc.",
+                "industry": "Confectioners",
+                "marketCap": 87215419095
+            },
+            {
+                "s": "CVS",
+                "n": "CVS Health Corporation",
+                "industry": "Healthcare Plans",
+                "marketCap": 84945807719
+            },
+            {
+                "s": "KLAC",
+                "n": "KLA Corporation",
+                "industry": "Semiconductor Equipment & Materials",
+                "marketCap": 84307338265
+            },
+            {
+                "s": "AJG",
+                "n": "Arthur J. Gallagher & Co.",
+                "industry": "Insurance Brokers",
+                "marketCap": 84193011514
+            },
+            {
+                "s": "SHW",
+                "n": "The Sherwin-Williams Company",
+                "industry": "Specialty Chemicals",
+                "marketCap": 83372759219
+            },
+            {
+                "s": "CTAS",
+                "n": "Cintas Corporation",
+                "industry": "Specialty Business Services",
+                "marketCap": 83083205507
+            },
+            {
+                "s": "MSTR",
+                "n": "MicroStrategy Incorporated",
+                "industry": "Software - Application",
+                "marketCap": 82616856041
+            },
+            {
+                "s": "INTC",
+                "n": "Intel Corporation",
+                "industry": "Semiconductors",
+                "marketCap": 82545999726
+            },
+            {
+                "s": "HCA",
+                "n": "HCA Healthcare, Inc.",
+                "industry": "Medical Care Facilities",
+                "marketCap": 82480567868
+            },
+            {
+                "s": "NKE",
+                "n": "NIKE, Inc.",
+                "industry": "Footwear & Accessories",
+                "marketCap": 82301229555
+            },
+            {
+                "s": "LRCX",
+                "n": "Lam Research Corporation",
+                "industry": "Semiconductor Equipment & Materials",
+                "marketCap": 81846289120
+            },
+            {
+                "s": "TRI",
+                "n": "Thomson Reuters Corporation",
+                "industry": "Specialty Business Services",
+                "marketCap": 81776764760
+            },
+            {
+                "s": "BN",
+                "n": "Brookfield Corporation",
+                "industry": "Asset Management",
+                "marketCap": 81736050031
+            },
+            {
+                "s": "UPS",
+                "n": "United Parcel Service, Inc.",
+                "industry": "Integrated Freight & Logistics",
+                "marketCap": 81727508253
+            },
+            {
+                "s": "APP",
+                "n": "AppLovin Corporation",
+                "industry": "Software - Application",
+                "marketCap": 80984849789
+            },
+            {
+                "s": "ORLY",
+                "n": "O'Reilly Automotive, Inc.",
+                "industry": "Auto Parts",
+                "marketCap": 79615829532
+            },
+            {
+                "s": "AON",
+                "n": "Aon plc",
+                "industry": "Insurance Brokers",
+                "marketCap": 79360966355
+            },
+            {
+                "s": "APH",
+                "n": "Amphenol Corporation",
+                "industry": "Electronic Components",
+                "marketCap": 78838622344
+            },
+            {
+                "s": "BAM",
+                "n": "Brookfield Asset Management Ltd.",
+                "industry": "Asset Management",
+                "marketCap": 78254659094
+            },
+            {
+                "s": "RACE",
+                "n": "Ferrari N.V.",
+                "industry": "Auto Manufacturers",
+                "marketCap": 78219726908
+            },
+            {
+                "s": "NOC",
+                "n": "Northrop Grumman Corporation",
+                "industry": "Aerospace & Defense",
+                "marketCap": 77891113174
+            },
+            {
+                "s": "BBVA",
+                "n": "Banco Bilbao Vizcaya Argentaria, S.A.",
+                "industry": "Banks - Diversified",
+                "marketCap": 77669183249
+            },
+            {
+                "s": "CL",
+                "n": "Colgate-Palmolive Company",
+                "industry": "Household & Personal Products",
+                "marketCap": 77458555139
+            },
+            {
+                "s": "EQIX",
+                "n": "Equinix, Inc.",
+                "industry": "REIT - Specialty",
+                "marketCap": 77291099719
+            },
+            {
+                "s": "MU",
+                "n": "Micron Technology, Inc.",
+                "industry": "Semiconductors",
+                "marketCap": 76888920920
+            },
+            {
+                "s": "MCO",
+                "n": "Moody's Corporation",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 76427779469
+            },
+            {
+                "s": "DASH",
+                "n": "DoorDash, Inc.",
+                "industry": "Internet Content & Information",
+                "marketCap": 76138214264
+            },
+            {
+                "s": "RSG",
+                "n": "Republic Services, Inc.",
+                "industry": "Waste Management",
+                "marketCap": 75972683366
+            },
+            {
+                "s": "BP",
+                "n": "BP p.l.c.",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 75346234772
+            },
+            {
+                "s": "TDG",
+                "n": "TransDigm Group Incorporated",
+                "industry": "Aerospace & Defense",
+                "marketCap": 75022108646
+            },
+            {
+                "s": "TT",
+                "n": "Trane Technologies plc",
+                "industry": "Building Products & Equipment",
+                "marketCap": 74724777566
+            },
+            {
+                "s": "GD",
+                "n": "General Dynamics Corporation",
+                "industry": "Aerospace & Defense",
+                "marketCap": 73983203905
+            },
+            {
+                "s": "FTNT",
+                "n": "Fortinet, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 73921476580
+            },
+            {
+                "s": "APO",
+                "n": "Apollo Global Management, Inc.",
+                "industry": "Asset Management",
+                "marketCap": 72325513353
+            },
+            {
+                "s": "PH",
+                "n": "Parker-Hannifin Corporation",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 72237076923
+            },
+            {
+                "s": "GSK",
+                "n": "GSK plc",
+                "industry": "Drug Manufacturers - General",
+                "marketCap": 71788405283
+            },
+            {
+                "s": "SE",
+                "n": "Sea Limited",
+                "industry": "Internet Retail",
+                "marketCap": 71616651416
+            },
+            {
+                "s": "WMB",
+                "n": "The Williams Companies, Inc.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 71556657109
+            },
+            {
+                "s": "CDNS",
+                "n": "Cadence Design Systems, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 71381884472
+            },
+            {
+                "s": "PBR",
+                "n": "Petróleo Brasileiro S.A. - Petrobras",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 70895998445
+            },
+            {
+                "s": "PBR.A",
+                "n": "Petróleo Brasileiro S.A. - Petrobras",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 70895998445
+            },
+            {
+                "s": "MSI",
+                "n": "Motorola Solutions, Inc.",
+                "industry": "Communication Equipment",
+                "marketCap": 70283305110
+            },
+            {
+                "s": "MMM",
+                "n": "3M Company",
+                "industry": "Conglomerates",
+                "marketCap": 70224640921
+            },
+            {
+                "s": "NGG",
+                "n": "National Grid plc",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 70046086123
+            },
+            {
+                "s": "ABNB",
+                "n": "Airbnb, Inc.",
+                "industry": "Travel Services",
+                "marketCap": 70024972807
+            },
+            {
+                "s": "CP",
+                "n": "Canadian Pacific Kansas City Limited",
+                "industry": "Railroads",
+                "marketCap": 69480643297
+            },
+            {
+                "s": "INFY",
+                "n": "Infosys Limited",
+                "industry": "Information Technology Services",
+                "marketCap": 68856334734
+            },
+            {
+                "s": "SCCO",
+                "n": "Southern Copper Corporation",
+                "industry": "Copper",
+                "marketCap": 68678737385
+            },
+            {
+                "s": "BMO",
+                "n": "Bank of Montreal",
+                "industry": "Banks - Diversified",
+                "marketCap": 67870235338
+            },
+            {
+                "s": "ITW",
+                "n": "Illinois Tool Works Inc.",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 67720602592
+            },
+            {
+                "s": "ECL",
+                "n": "Ecolab Inc.",
+                "industry": "Specialty Chemicals",
+                "marketCap": 67711597468
+            },
+            {
+                "s": "EPD",
+                "n": "Enterprise Products Partners L.P.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 67180012821
+            },
+            {
+                "s": "ZTS",
+                "n": "Zoetis Inc.",
+                "industry": "Drug Manufacturers - Specialty & Generic",
+                "marketCap": 66315875044
+            },
+            {
+                "s": "CMG",
+                "n": "Chipotle Mexican Grill, Inc.",
+                "industry": "Restaurants",
+                "marketCap": 65286583290
+            },
+            {
+                "s": "CEG",
+                "n": "Constellation Energy Corporation",
+                "industry": "Utilities - Renewable",
+                "marketCap": 64754845696
+            },
+            {
+                "s": "NTES",
+                "n": "NetEase, Inc.",
+                "industry": "Electronic Gaming & Multimedia",
+                "marketCap": 64599340609
+            },
+            {
+                "s": "SNPS",
+                "n": "Synopsys, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 63907569812
+            },
+            {
+                "s": "EQNR",
+                "n": "Equinor ASA",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 63182479710
+            },
+            {
+                "s": "CNI",
+                "n": "Canadian National Railway Company",
+                "industry": "Railroads",
+                "marketCap": 62244897435
+            },
+            {
+                "s": "COF",
+                "n": "Capital One Financial Corporation",
+                "industry": "Credit Services",
+                "marketCap": 62093411053
+            },
+            {
+                "s": "NEM",
+                "n": "Newmont Corporation",
+                "industry": "Gold",
+                "marketCap": 61696077353
+            },
+            {
+                "s": "AEM",
+                "n": "Agnico Eagle Mines Limited",
+                "industry": "Gold",
+                "marketCap": 61041975742
+            },
+            {
+                "s": "DEO",
+                "n": "Diageo plc",
+                "industry": "Beverages - Wineries & Distilleries",
+                "marketCap": 61009640495
+            },
+            {
+                "s": "EOG",
+                "n": "EOG Resources, Inc.",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 60945656642
+            },
+            {
+                "s": "MAR",
+                "n": "Marriott International, Inc.",
+                "industry": "Lodging",
+                "marketCap": 60694915983
+            },
+            {
+                "s": "MFG",
+                "n": "Mizuho Financial Group, Inc.",
+                "industry": "Banks - Regional",
+                "marketCap": 60527056070
+            },
+            {
+                "s": "CNQ",
+                "n": "Canadian Natural Resources Limited",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 60387852978
+            },
+            {
+                "s": "PYPL",
+                "n": "PayPal Holdings, Inc.",
+                "industry": "Credit Services",
+                "marketCap": 60343789572
+            },
+            {
+                "s": "PNC",
+                "n": "The PNC Financial Services Group, Inc.",
+                "industry": "Banks - Regional",
+                "marketCap": 60284533978
+            },
+            {
+                "s": "AZO",
+                "n": "AutoZone, Inc.",
+                "industry": "Specialty Retail",
+                "marketCap": 60281213640
+            },
+            {
+                "s": "REGN",
+                "n": "Regeneron Pharmaceuticals, Inc.",
+                "industry": "Biotechnology",
+                "marketCap": 60272019915
+            },
+            {
+                "s": "KMI",
+                "n": "Kinder Morgan, Inc.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 60217540285
+            },
+            {
+                "s": "ROP",
+                "n": "Roper Technologies, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 59839332749
+            },
+            {
+                "s": "USB",
+                "n": "U.S. Bancorp",
+                "industry": "Banks - Regional",
+                "marketCap": 59516002208
+            },
+            {
+                "s": "ET",
+                "n": "Energy Transfer LP",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 59257082428
+            },
+            {
+                "s": "DELL",
+                "n": "Dell Technologies Inc.",
+                "industry": "Computer Hardware",
+                "marketCap": 59176901621
+            },
+            {
+                "s": "BNS",
+                "n": "The Bank of Nova Scotia",
+                "industry": "Banks - Diversified",
+                "marketCap": 59017967823
+            },
+            {
+                "s": "WDAY",
+                "n": "Workday, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 58869119040
+            },
+            {
+                "s": "AFL",
+                "n": "Aflac Incorporated",
+                "industry": "Insurance - Life",
+                "marketCap": 58642320624
+            },
+            {
+                "s": "APD",
+                "n": "Air Products and Chemicals, Inc.",
+                "industry": "Specialty Chemicals",
+                "marketCap": 58488852591
+            },
+            {
+                "s": "TRV",
+                "n": "The Travelers Companies, Inc.",
+                "industry": "Insurance - Property & Casualty",
+                "marketCap": 57969889586
+            },
+            {
+                "s": "CPRT",
+                "n": "Copart, Inc.",
+                "industry": "Specialty Business Services",
+                "marketCap": 57656427614
+            },
+            {
+                "s": "AEP",
+                "n": "American Electric Power Company, Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 57387982354
+            },
+            {
+                "s": "CRH",
+                "n": "CRH plc",
+                "industry": "Building Materials",
+                "marketCap": 57336730168
+            },
+            {
+                "s": "ING",
+                "n": "ING Groep N.V.",
+                "industry": "Banks - Diversified",
+                "marketCap": 57149816829
+            },
+            {
+                "s": "BDX",
+                "n": "Becton, Dickinson and Company",
+                "industry": "Medical Instruments & Supplies",
+                "marketCap": 57056679507
+            },
+            {
+                "s": "MNST",
+                "n": "Monster Beverage Corporation",
+                "industry": "Beverages - Non-Alcoholic",
+                "marketCap": 56842211115
+            },
+            {
+                "s": "SPG",
+                "n": "Simon Property Group, Inc.",
+                "industry": "REIT - Retail",
+                "marketCap": 56695635866
+            },
+            {
+                "s": "ITUB",
+                "n": "Itaú Unibanco Holding S.A.",
+                "industry": "Banks - Regional",
+                "marketCap": 56379247831
+            },
+            {
+                "s": "EMR",
+                "n": "Emerson Electric Co.",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 56147523000
+            },
+            {
+                "s": "LYG",
+                "n": "Lloyds Banking Group plc",
+                "industry": "Banks - Regional",
+                "marketCap": 55684313564
+            },
+            {
+                "s": "COR",
+                "n": "Cencora, Inc.",
+                "industry": "Medical Distribution",
+                "marketCap": 55603784093
+            },
+            {
+                "s": "CM",
+                "n": "Canadian Imperial Bank of Commerce",
+                "industry": "Banks - Diversified",
+                "marketCap": 55331812788
+            },
+            {
+                "s": "ADSK",
+                "n": "Autodesk, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 55267110000
+            },
+            {
+                "s": "BK",
+                "n": "The Bank of New York Mellon Corporation",
+                "industry": "Banks - Diversified",
+                "marketCap": 54810128824
+            },
+            {
+                "s": "CHTR",
+                "n": "Charter Communications, Inc.",
+                "industry": "Telecom Services",
+                "marketCap": 53720273553
+            },
+            {
+                "s": "TEAM",
+                "n": "Atlassian Corporation",
+                "industry": "Software - Application",
+                "marketCap": 53120562042
+            },
+            {
+                "s": "NU",
+                "n": "Nu Holdings Ltd.",
+                "industry": "Banks - Regional",
+                "marketCap": 53005245040
+            },
+            {
+                "s": "BCS",
+                "n": "Barclays PLC",
+                "industry": "Banks - Diversified",
+                "marketCap": 52399462733
+            },
+            {
+                "s": "PAYX",
+                "n": "Paychex, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 52191627793
+            },
+            {
+                "s": "O",
+                "n": "Realty Income Corporation",
+                "industry": "REIT - Retail",
+                "marketCap": 52164380395
+            },
+            {
+                "s": "PSA",
+                "n": "Public Storage",
+                "industry": "REIT - Industrial",
+                "marketCap": 52073318750
+            },
+            {
+                "s": "CSX",
+                "n": "CSX Corporation",
+                "industry": "Railroads",
+                "marketCap": 51998149709
+            },
+            {
+                "s": "RCL",
+                "n": "Royal Caribbean Cruises Ltd.",
+                "industry": "Travel Services",
+                "marketCap": 51858419608
+            },
+            {
+                "s": "LNG",
+                "n": "Cheniere Energy, Inc.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 51767372106
+            },
+            {
+                "s": "CARR",
+                "n": "Carrier Global Corporation",
+                "industry": "Building Products & Equipment",
+                "marketCap": 51752855563
+            },
+            {
+                "s": "MPLX",
+                "n": "MPLX LP",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 51708319625
+            },
+            {
+                "s": "DLR",
+                "n": "Digital Realty Trust, Inc.",
+                "industry": "REIT - Specialty",
+                "marketCap": 51689720489
+            },
+            {
+                "s": "ALL",
+                "n": "The Allstate Corporation",
+                "industry": "Insurance - Property & Casualty",
+                "marketCap": 51589970504
+            },
+            {
+                "s": "OKE",
+                "n": "ONEOK, Inc.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 51567130599
+            },
+            {
+                "s": "TRP",
+                "n": "TC Energy Corporation",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 51323534384
+            },
+            {
+                "s": "WCN",
+                "n": "Waste Connections, Inc.",
+                "industry": "Waste Management",
+                "marketCap": 50983803262
+            },
+            {
+                "s": "JCI",
+                "n": "Johnson Controls International plc",
+                "industry": "Building Products & Equipment",
+                "marketCap": 50718493814
+            },
+            {
+                "s": "HLT",
+                "n": "Hilton Worldwide Holdings Inc.",
+                "industry": "Lodging",
+                "marketCap": 50426769457
+            },
+            {
+                "s": "JD",
+                "n": "JD.com, Inc.",
+                "industry": "Internet Retail",
+                "marketCap": 49992990556
+            },
+            {
+                "s": "HWM",
+                "n": "Howmet Aerospace Inc.",
+                "industry": "Aerospace & Defense",
+                "marketCap": 49910925016
+            },
+            {
+                "s": "NSC",
+                "n": "Norfolk Southern Corporation",
+                "industry": "Railroads",
+                "marketCap": 49736006493
+            },
+            {
+                "s": "FDX",
+                "n": "FedEx Corporation",
+                "industry": "Integrated Freight & Logistics",
+                "marketCap": 49728755638
+            },
+            {
+                "s": "MET",
+                "n": "MetLife, Inc.",
+                "industry": "Insurance - Life",
+                "marketCap": 49423093431
+            },
+            {
+                "s": "MFC",
+                "n": "Manulife Financial Corporation",
+                "industry": "Insurance - Life",
+                "marketCap": 49144768059
+            },
+            {
+                "s": "NWG",
+                "n": "NatWest Group plc",
+                "industry": "Banks - Regional",
+                "marketCap": 49046772014
+            },
+            {
+                "s": "GWW",
+                "n": "W.W. Grainger, Inc.",
+                "industry": "Industrial Distribution",
+                "marketCap": 48301010144
+            },
+            {
+                "s": "KDP",
+                "n": "Keurig Dr Pepper Inc.",
+                "industry": "Beverages - Non-Alcoholic",
+                "marketCap": 48028981046
+            },
+            {
+                "s": "SNOW",
+                "n": "Snowflake Inc.",
+                "industry": "Software - Application",
+                "marketCap": 47857427520
+            },
+            {
+                "s": "SLB",
+                "n": "Schlumberger Limited",
+                "industry": "Oil & Gas Equipment & Services",
+                "marketCap": 47744518775
+            },
+            {
+                "s": "EXC",
+                "n": "Exelon Corporation",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 47616133968
+            },
+            {
+                "s": "AIG",
+                "n": "American International Group, Inc.",
+                "industry": "Insurance - Diversified",
+                "marketCap": 47367349740
+            },
+            {
+                "s": "KMB",
+                "n": "Kimberly-Clark Corporation",
+                "industry": "Household & Personal Products",
+                "marketCap": 47363180134
+            },
+            {
+                "s": "FCX",
+                "n": "Freeport-McMoRan Inc.",
+                "industry": "Copper",
+                "marketCap": 47279701897
+            },
+            {
+                "s": "KR",
+                "n": "The Kroger Co.",
+                "industry": "Grocery Stores",
+                "marketCap": 47068833290
+            },
+            {
+                "s": "TFC",
+                "n": "Truist Financial Corporation",
+                "industry": "Banks - Regional",
+                "marketCap": 46863526417
+            },
+            {
+                "s": "FAST",
+                "n": "Fastenal Company",
+                "industry": "Industrial Distribution",
+                "marketCap": 46795971648
+            },
+            {
+                "s": "FICO",
+                "n": "Fair Isaac Corporation",
+                "industry": "Software - Application",
+                "marketCap": 46606655819
+            },
+            {
+                "s": "AMX",
+                "n": "América Móvil, S.A.B. de C.V.",
+                "industry": "Telecom Services",
+                "marketCap": 46527448106
+            },
+            {
+                "s": "SRE",
+                "n": "Sempra",
+                "industry": "Utilities - Diversified",
+                "marketCap": 46364078661
+            },
+            {
+                "s": "PCAR",
+                "n": "PACCAR Inc",
+                "industry": "Farm & Heavy Construction Machinery",
+                "marketCap": 46283498495
+            },
+            {
+                "s": "ROST",
+                "n": "Ross Stores, Inc.",
+                "industry": "Apparel Retail",
+                "marketCap": 45913341716
+            },
+            {
+                "s": "TAK",
+                "n": "Takeda Pharmaceutical Company Limited",
+                "industry": "Drug Manufacturers - Specialty & Generic",
+                "marketCap": 45909704313
+            },
+            {
+                "s": "DB",
+                "n": "Deutsche Bank Aktiengesellschaft",
+                "industry": "Banks - Regional",
+                "marketCap": 45767700728
+            },
+            {
+                "s": "CVNA",
+                "n": "Carvana Co.",
+                "industry": "Auto & Truck Dealerships",
+                "marketCap": 45636372282
+            },
+            {
+                "s": "HLN",
+                "n": "Haleon plc",
+                "industry": "Drug Manufacturers - Specialty & Generic",
+                "marketCap": 45515969224
+            },
+            {
+                "s": "ALC",
+                "n": "Alcon Inc.",
+                "industry": "Medical Instruments & Supplies",
+                "marketCap": 45512913212
+            },
+            {
+                "s": "D",
+                "n": "Dominion Energy, Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 45312281440
+            },
+            {
+                "s": "CCI",
+                "n": "Crown Castle Inc.",
+                "industry": "REIT - Specialty",
+                "marketCap": 45106585167
+            },
+            {
+                "s": "KVUE",
+                "n": "Kenvue Inc.",
+                "industry": "Household & Personal Products",
+                "marketCap": 44878186677
+            },
+            {
+                "s": "MRVL",
+                "n": "Marvell Technology, Inc.",
+                "industry": "Semiconductors",
+                "marketCap": 44777370000
+            },
+            {
+                "s": "ARES",
+                "n": "Ares Management Corporation",
+                "industry": "Asset Management",
+                "marketCap": 44548311511
+            },
+            {
+                "s": "AMP",
+                "n": "Ameriprise Financial, Inc.",
+                "industry": "Asset Management",
+                "marketCap": 44511331399
+            },
+            {
+                "s": "COIN",
+                "n": "Coinbase Global, Inc.",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 44436523109
+            },
+            {
+                "s": "GM",
+                "n": "General Motors Company",
+                "industry": "Auto Manufacturers",
+                "marketCap": 44347234282
+            },
+            {
+                "s": "NXPI",
+                "n": "NXP Semiconductors N.V.",
+                "industry": "Semiconductors",
+                "marketCap": 43303098777
+            },
+            {
+                "s": "AXON",
+                "n": "Axon Enterprise, Inc.",
+                "industry": "Aerospace & Defense",
+                "marketCap": 42873016025
+            },
+            {
+                "s": "SU",
+                "n": "Suncor Energy Inc.",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 42655542303
+            },
+            {
+                "s": "HMC",
+                "n": "Honda Motor Co., Ltd.",
+                "industry": "Auto Manufacturers",
+                "marketCap": 42599940006
+            },
+            {
+                "s": "MSCI",
+                "n": "MSCI Inc.",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 42439552696
+            },
+            {
+                "s": "TGT",
+                "n": "Target Corporation",
+                "industry": "Discount Stores",
+                "marketCap": 42418724563
+            },
+            {
+                "s": "EW",
+                "n": "Edwards Lifesciences Corporation",
+                "industry": "Medical Devices",
+                "marketCap": 41899088984
+            },
+            {
+                "s": "PEG",
+                "n": "Public Service Enterprise Group Incorporated",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 41560083889
+            },
+            {
+                "s": "NDAQ",
+                "n": "Nasdaq, Inc.",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 41513989414
+            },
+            {
+                "s": "CCEP",
+                "n": "Coca-Cola Europacific Partners PLC",
+                "industry": "Beverages - Non-Alcoholic",
+                "marketCap": 41216994742
+            },
+            {
+                "s": "VRSK",
+                "n": "Verisk Analytics, Inc.",
+                "industry": "Consulting Services",
+                "marketCap": 41006571380
+            },
+            {
+                "s": "E",
+                "n": "Eni S.p.A.",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 41006320661
+            },
+            {
+                "s": "LHX",
+                "n": "L3Harris Technologies, Inc.",
+                "industry": "Aerospace & Defense",
+                "marketCap": 40963460806
+            },
+            {
+                "s": "CTVA",
+                "n": "Corteva, Inc.",
+                "industry": "Agricultural Inputs",
+                "marketCap": 40803291129
+            },
+            {
+                "s": "RBLX",
+                "n": "Roblox Corporation",
+                "industry": "Electronic Gaming & Multimedia",
+                "marketCap": 40497960824
+            },
+            {
+                "s": "FLUT",
+                "n": "Flutter Entertainment plc",
+                "industry": "Gambling",
+                "marketCap": 40402999368
+            },
+            {
+                "s": "PSX",
+                "n": "Phillips 66",
+                "industry": "Oil & Gas Refining & Marketing",
+                "marketCap": 40402906188
+            },
+            {
+                "s": "ED",
+                "n": "Consolidated Edison, Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 40378500264
+            },
+            {
+                "s": "XEL",
+                "n": "Xcel Energy Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 40293380430
+            },
+            {
+                "s": "HES",
+                "n": "Hess Corporation",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 40247668266
+            },
+            {
+                "s": "DFS",
+                "n": "Discover Financial Services",
+                "industry": "Credit Services",
+                "marketCap": 40163567112
+            },
+            {
+                "s": "YUM",
+                "n": "Yum! Brands, Inc.",
+                "industry": "Restaurants",
+                "marketCap": 39914297926
+            },
+            {
+                "s": "FANG",
+                "n": "Diamondback Energy, Inc.",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 39838645201
+            },
+            {
+                "s": "MPC",
+                "n": "Marathon Petroleum Corporation",
+                "industry": "Oil & Gas Refining & Marketing",
+                "marketCap": 39788785171
+            },
+            {
+                "s": "PWR",
+                "n": "Quanta Services, Inc.",
+                "industry": "Engineering & Construction",
+                "marketCap": 39619007476
+            },
+            {
+                "s": "FIS",
+                "n": "Fidelity National Information Services, Inc.",
+                "industry": "Information Technology Services",
+                "marketCap": 39504398484
+            },
+            {
+                "s": "VST",
+                "n": "Vistra Corp.",
+                "industry": "Utilities - Independent Power Producers",
+                "marketCap": 39123183560
+            },
+            {
+                "s": "OTIS",
+                "n": "Otis Worldwide Corporation",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 39065008827
+            },
+            {
+                "s": "OXY",
+                "n": "Occidental Petroleum Corporation",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 38958100482
+            },
+            {
+                "s": "CMI",
+                "n": "Cummins Inc.",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 38817236470
+            },
+            {
+                "s": "URI",
+                "n": "United Rentals, Inc.",
+                "industry": "Rental & Leasing Services",
+                "marketCap": 38643930644
+            },
+            {
+                "s": "CPNG",
+                "n": "Coupang, Inc.",
+                "industry": "Internet Retail",
+                "marketCap": 38619377796
+            },
+            {
+                "s": "VALE",
+                "n": "Vale S.A.",
+                "industry": "Other Industrial Metals & Mining",
+                "marketCap": 38573122672
+            },
+            {
+                "s": "TEL",
+                "n": "TE Connectivity plc",
+                "industry": "Electronic Components",
+                "marketCap": 38559164983
+            },
+            {
+                "s": "BKR",
+                "n": "Baker Hughes Company",
+                "industry": "Oil & Gas Equipment & Services",
+                "marketCap": 38534502197
+            },
+            {
+                "s": "F",
+                "n": "Ford Motor Company",
+                "industry": "Auto Manufacturers",
+                "marketCap": 38294152155
+            },
+            {
+                "s": "WPM",
+                "n": "Wheaton Precious Metals Corp.",
+                "industry": "Gold",
+                "marketCap": 38089612523
+            },
+            {
+                "s": "TRGP",
+                "n": "Targa Resources Corp.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 37983871407
+            },
+            {
+                "s": "EA",
+                "n": "Electronic Arts Inc.",
+                "industry": "Electronic Gaming & Multimedia",
+                "marketCap": 37948527862
+            },
+            {
+                "s": "PCG",
+                "n": "PG&E Corporation",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 37795328247
+            },
+            {
+                "s": "TTWO",
+                "n": "Take-Two Interactive Software, Inc.",
+                "industry": "Electronic Gaming & Multimedia",
+                "marketCap": 37552991366
+            },
+            {
+                "s": "ABEV",
+                "n": "Ambev S.A.",
+                "industry": "Beverages - Brewers",
+                "marketCap": 37433407860
+            },
+            {
+                "s": "DHI",
+                "n": "D.R. Horton, Inc.",
+                "industry": "Residential Construction",
+                "marketCap": 37421273525
+            },
+            {
+                "s": "NET",
+                "n": "Cloudflare, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 37209854500
+            },
+            {
+                "s": "GRMN",
+                "n": "Garmin Ltd.",
+                "industry": "Scientific & Technical Instruments",
+                "marketCap": 36674083553
+            },
+            {
+                "s": "HOOD",
+                "n": "Robinhood Markets, Inc.",
+                "industry": "Capital Markets",
+                "marketCap": 36463269155
+            },
+            {
+                "s": "AME",
+                "n": "AMETEK, Inc.",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 36414169867
+            },
+            {
+                "s": "ARGX",
+                "n": "argenx SE",
+                "industry": "Biotechnology",
+                "marketCap": 36396887553
+            },
+            {
+                "s": "ETR",
+                "n": "Entergy Corporation",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 35870386189
+            },
+            {
+                "s": "TCOM",
+                "n": "Trip.com Group Limited",
+                "industry": "Travel Services",
+                "marketCap": 35850148245
+            },
+            {
+                "s": "GLW",
+                "n": "Corning Incorporated",
+                "industry": "Electronic Components",
+                "marketCap": 35573382036
+            },
+            {
+                "s": "PRU",
+                "n": "Prudential Financial, Inc.",
+                "industry": "Insurance - Life",
+                "marketCap": 35254862244
+            },
+            {
+                "s": "KHC",
+                "n": "The Kraft Heinz Company",
+                "industry": "Packaged Foods",
+                "marketCap": 35157515921
+            },
+            {
+                "s": "VEEV",
+                "n": "Veeva Systems Inc.",
+                "industry": "Health Information Services",
+                "marketCap": 35134209838
+            },
+            {
+                "s": "SYY",
+                "n": "Sysco Corporation",
+                "industry": "Food Distribution",
+                "marketCap": 35097334661
+            },
+            {
+                "s": "CBRE",
+                "n": "CBRE Group, Inc.",
+                "industry": "Real Estate Services",
+                "marketCap": 34744858138
+            },
+            {
+                "s": "GOLD",
+                "n": "Barrick Gold Corporation",
+                "industry": "Gold",
+                "marketCap": 34686463156
+            },
+            {
+                "s": "ACGL",
+                "n": "Arch Capital Group Ltd.",
+                "industry": "Insurance - Diversified",
+                "marketCap": 34638535301
+            },
+            {
+                "s": "VLO",
+                "n": "Valero Energy Corporation",
+                "industry": "Oil & Gas Refining & Marketing",
+                "marketCap": 34609541120
+            },
+            {
+                "s": "WEC",
+                "n": "WEC Energy Group, Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 34586078605
+            },
+            {
+                "s": "VICI",
+                "n": "VICI Properties Inc.",
+                "industry": "REIT - Diversified",
+                "marketCap": 34385100912
+            },
+            {
+                "s": "CTSH",
+                "n": "Cognizant Technology Solutions Corporation",
+                "industry": "Information Technology Services",
+                "marketCap": 34346101292
+            },
+            {
+                "s": "HEI",
+                "n": "HEICO Corporation",
+                "industry": "Aerospace & Defense",
+                "marketCap": 34005948986
+            },
+            {
+                "s": "HSY",
+                "n": "The Hershey Company",
+                "industry": "Confectioners",
+                "marketCap": 33744966172
+            },
+            {
+                "s": "STZ",
+                "n": "Constellation Brands, Inc.",
+                "industry": "Beverages - Brewers",
+                "marketCap": 33724891100
+            },
+            {
+                "s": "HIG",
+                "n": "The Hartford Insurance Group, Inc.",
+                "industry": "Insurance - Property & Casualty",
+                "marketCap": 33618586833
+            },
+            {
+                "s": "BRO",
+                "n": "Brown & Brown, Inc.",
+                "industry": "Insurance Brokers",
+                "marketCap": 33598487858
+            },
+            {
+                "s": "XYZ",
+                "n": "Block, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 33396312365
+            },
+            {
+                "s": "IDXX",
+                "n": "IDEXX Laboratories, Inc.",
+                "industry": "Diagnostics & Research",
+                "marketCap": 33346754570
+            },
+            {
+                "s": "FNV",
+                "n": "Franco-Nevada Corporation",
+                "industry": "Gold",
+                "marketCap": 32913451700
+            },
+            {
+                "s": "FER",
+                "n": "Ferrovial SE",
+                "industry": "Infrastructure Operations",
+                "marketCap": 32749694582
+            },
+            {
+                "s": "CSGP",
+                "n": "CoStar Group, Inc.",
+                "industry": "Real Estate Services",
+                "marketCap": 32687011117
+            },
+            {
+                "s": "ODFL",
+                "n": "Old Dominion Freight Line, Inc.",
+                "industry": "Trucking",
+                "marketCap": 32678805896
+            },
+            {
+                "s": "FERG",
+                "n": "Ferguson Enterprises Inc.",
+                "industry": "Industrial Distribution",
+                "marketCap": 32636504072
+            },
+            {
+                "s": "CAH",
+                "n": "Cardinal Health, Inc.",
+                "industry": "Medical Distribution",
+                "marketCap": 32541624337
+            },
+            {
+                "s": "IMO",
+                "n": "Imperial Oil Limited",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 32448247440
+            },
+            {
+                "s": "FMX",
+                "n": "Fomento Económico Mexicano, S.A.B. de C.V.",
+                "industry": "Beverages - Brewers",
+                "marketCap": 32311830599
+            },
+            {
+                "s": "SLF",
+                "n": "Sun Life Financial Inc.",
+                "industry": "Insurance - Diversified",
+                "marketCap": 32048612088
+            },
+            {
+                "s": "VMC",
+                "n": "Vulcan Materials Company",
+                "industry": "Building Materials",
+                "marketCap": 31959239445
+            },
+            {
+                "s": "HUM",
+                "n": "Humana Inc.",
+                "industry": "Healthcare Plans",
+                "marketCap": 31920787576
+            },
+            {
+                "s": "WTW",
+                "n": "Willis Towers Watson Public Limited Company",
+                "industry": "Insurance Brokers",
+                "marketCap": 31901243541
+            },
+            {
+                "s": "TW",
+                "n": "Tradeweb Markets Inc.",
+                "industry": "Capital Markets",
+                "marketCap": 31772447734
+            },
+            {
+                "s": "GIS",
+                "n": "General Mills, Inc.",
+                "industry": "Packaged Foods",
+                "marketCap": 31492506710
+            },
+            {
+                "s": "EXR",
+                "n": "Extra Space Storage Inc.",
+                "industry": "REIT - Industrial",
+                "marketCap": 31282564727
+            },
+            {
+                "s": "DDOG",
+                "n": "Datadog, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 31253222979
+            },
+            {
+                "s": "RMD",
+                "n": "ResMed Inc.",
+                "industry": "Medical Instruments & Supplies",
+                "marketCap": 31216611689
+            },
+            {
+                "s": "ZS",
+                "n": "Zscaler, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 31113630543
+            },
+            {
+                "s": "IT",
+                "n": "Gartner, Inc.",
+                "industry": "Information Technology Services",
+                "marketCap": 30950829287
+            },
+            {
+                "s": "EBAY",
+                "n": "eBay Inc.",
+                "industry": "Internet Retail",
+                "marketCap": 30877160000
+            },
+            {
+                "s": "EQT",
+                "n": "EQT Corporation",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 30457542180
+            },
+            {
+                "s": "CHT",
+                "n": "Chunghwa Telecom Co., Ltd.",
+                "industry": "Telecom Services",
+                "marketCap": 30417631551
+            },
+            {
+                "s": "ALNY",
+                "n": "Alnylam Pharmaceuticals, Inc.",
+                "industry": "Biotechnology",
+                "marketCap": 30365470511
+            },
+            {
+                "s": "LULU",
+                "n": "lululemon athletica inc.",
+                "industry": "Apparel Retail",
+                "marketCap": 30289586167
+            },
+            {
+                "s": "CNC",
+                "n": "Centene Corporation",
+                "industry": "Healthcare Plans",
+                "marketCap": 30110845156
+            },
+            {
+                "s": "VTR",
+                "n": "Ventas, Inc.",
+                "industry": "REIT - Healthcare Facilities",
+                "marketCap": 29966177053
+            },
+            {
+                "s": "MLM",
+                "n": "Martin Marietta Materials, Inc.",
+                "industry": "Building Materials",
+                "marketCap": 29951087330
+            },
+            {
+                "s": "HEI.A",
+                "n": "HEICO Corporation",
+                "industry": "Aerospace & Defense",
+                "marketCap": 29947467574
+            },
+            {
+                "s": "TPL",
+                "n": "Texas Pacific Land Corporation",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 29848978075
+            },
+            {
+                "s": "CQP",
+                "n": "Cheniere Energy Partners, L.P.",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 29459168766
+            },
+            {
+                "s": "LYV",
+                "n": "Live Nation Entertainment, Inc.",
+                "industry": "Entertainment",
+                "marketCap": 29402195606
+            },
+            {
+                "s": "WAB",
+                "n": "Westinghouse Air Brake Technologies Corporation",
+                "industry": "Railroads",
+                "marketCap": 29221680694
+            },
+            {
+                "s": "A",
+                "n": "Agilent Technologies, Inc.",
+                "industry": "Diagnostics & Research",
+                "marketCap": 29217326438
+            },
+            {
+                "s": "IR",
+                "n": "Ingersoll Rand Inc.",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 29038117186
+            },
+            {
+                "s": "WIT",
+                "n": "Wipro Limited",
+                "industry": "Information Technology Services",
+                "marketCap": 29016659521
+            },
+            {
+                "s": "AWK",
+                "n": "American Water Works Company, Inc.",
+                "industry": "Utilities - Regulated Water",
+                "marketCap": 28939624238
+            },
+            {
+                "s": "AVB",
+                "n": "AvalonBay Communities, Inc.",
+                "industry": "REIT - Residential",
+                "marketCap": 28917836881
+            },
+            {
+                "s": "QSR",
+                "n": "Restaurant Brands International Inc.",
+                "industry": "Restaurants",
+                "marketCap": 28576908095
+            },
+            {
+                "s": "GEHC",
+                "n": "GE HealthCare Technologies Inc.",
+                "industry": "Health Information Services",
+                "marketCap": 28555679448
+            },
+            {
+                "s": "K",
+                "n": "Kellanova",
+                "industry": "Packaged Foods",
+                "marketCap": 28435435578
+            },
+            {
+                "s": "BIDU",
+                "n": "Baidu, Inc.",
+                "industry": "Internet Content & Information",
+                "marketCap": 28392038301
+            },
+            {
+                "s": "HUBS",
+                "n": "HubSpot, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 28146494126
+            },
+            {
+                "s": "VRT",
+                "n": "Vertiv Holdings Co",
+                "industry": "Electrical Equipment & Parts",
+                "marketCap": 27876580285
+            },
+            {
+                "s": "TEF",
+                "n": "Telefónica, S.A.",
+                "industry": "Telecom Services",
+                "marketCap": 27780064319
+            },
+            {
+                "s": "NOK",
+                "n": "Nokia Oyj",
+                "industry": "Communication Equipment",
+                "marketCap": 27714428279
+            },
+            {
+                "s": "DTE",
+                "n": "DTE Energy Company",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 27713995646
+            },
+            {
+                "s": "LEN",
+                "n": "Lennar Corporation",
+                "industry": "Residential Construction",
+                "marketCap": 27627164367
+            },
+            {
+                "s": "EFX",
+                "n": "Equifax Inc.",
+                "industry": "Consulting Services",
+                "marketCap": 27611710605
+            },
+            {
+                "s": "BR",
+                "n": "Broadridge Financial Solutions, Inc.",
+                "industry": "Information Technology Services",
+                "marketCap": 27598857329
+            },
+            {
+                "s": "LEN.B",
+                "n": "Lennar Corporation",
+                "industry": "Residential Construction",
+                "marketCap": 27465954851
+            },
+            {
+                "s": "RJF",
+                "n": "Raymond James Financial, Inc.",
+                "industry": "Asset Management",
+                "marketCap": 27347293138
+            },
+            {
+                "s": "ERIC",
+                "n": "Telefonaktiebolaget LM Ericsson (publ)",
+                "industry": "Communication Equipment",
+                "marketCap": 27218452853
+            },
+            {
+                "s": "STLA",
+                "n": "Stellantis N.V.",
+                "industry": "Auto Manufacturers",
+                "marketCap": 27157391427
+            },
+            {
+                "s": "PUK",
+                "n": "Prudential plc",
+                "industry": "Insurance - Life",
+                "marketCap": 27058776341
+            },
+            {
+                "s": "ROL",
+                "n": "Rollins, Inc.",
+                "industry": "Personal Services",
+                "marketCap": 27057518474
+            },
+            {
+                "s": "DXCM",
+                "n": "DexCom, Inc.",
+                "industry": "Medical Devices",
+                "marketCap": 26886811344
+            },
+            {
+                "s": "XYL",
+                "n": "Xylem Inc.",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 26870648477
+            },
+            {
+                "s": "OWL",
+                "n": "Blue Owl Capital Inc.",
+                "industry": "Asset Management",
+                "marketCap": 26843308404
+            },
+            {
+                "s": "EQR",
+                "n": "Equity Residential",
+                "industry": "REIT - Residential",
+                "marketCap": 26717317703
+            },
+            {
+                "s": "TSCO",
+                "n": "Tractor Supply Company",
+                "industry": "Specialty Retail",
+                "marketCap": 26665827812
+            },
+            {
+                "s": "AEE",
+                "n": "Ameren Corporation",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 26651053652
+            },
+            {
+                "s": "ANSS",
+                "n": "ANSYS, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 26535700180
+            },
+            {
+                "s": "DAL",
+                "n": "Delta Air Lines, Inc.",
+                "industry": "Airlines",
+                "marketCap": 26496545835
+            },
+            {
+                "s": "PPL",
+                "n": "PPL Corporation",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 26398922831
+            },
+            {
+                "s": "ROK",
+                "n": "Rockwell Automation, Inc.",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 26265715091
+            },
+            {
+                "s": "WRB",
+                "n": "W. R. Berkley Corporation",
+                "industry": "Insurance - Property & Casualty",
+                "marketCap": 26090752653
+            },
+            {
+                "s": "MTB",
+                "n": "M&T Bank Corporation",
+                "industry": "Banks - Regional",
+                "marketCap": 26045706960
+            },
+            {
+                "s": "CHD",
+                "n": "Church & Dwight Co., Inc.",
+                "industry": "Household & Personal Products",
+                "marketCap": 25932603219
+            },
+            {
+                "s": "NTR",
+                "n": "Nutrien Ltd.",
+                "industry": "Agricultural Inputs",
+                "marketCap": 25609472639
+            },
+            {
+                "s": "TKO",
+                "n": "TKO Group Holdings, Inc.",
+                "industry": "Entertainment",
+                "marketCap": 25542093197
+            },
+            {
+                "s": "NUE",
+                "n": "Nucor Corporation",
+                "industry": "Steel",
+                "marketCap": 25474676630
+            },
+            {
+                "s": "IQV",
+                "n": "IQVIA Holdings Inc.",
+                "industry": "Diagnostics & Research",
+                "marketCap": 25373496831
+            },
+            {
+                "s": "DD",
+                "n": "DuPont de Nemours, Inc.",
+                "industry": "Specialty Chemicals",
+                "marketCap": 25168499670
+            },
+            {
+                "s": "MPWR",
+                "n": "Monolithic Power Systems, Inc.",
+                "industry": "Semiconductors",
+                "marketCap": 25061680280
+            },
+            {
+                "s": "ATO",
+                "n": "Atmos Energy Corporation",
+                "industry": "Utilities - Regulated Gas",
+                "marketCap": 25006040155
+            },
+            {
+                "s": "ONC",
+                "n": "BeiGene, Ltd.",
+                "industry": "Biotechnology",
+                "marketCap": 24881028167
+            },
+            {
+                "s": "EXE",
+                "n": "Expand Energy Corporation",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 24775562505
+            },
+            {
+                "s": "IRM",
+                "n": "Iron Mountain Incorporated",
+                "industry": "REIT - Specialty",
+                "marketCap": 24735921610
+            },
+            {
+                "s": "TTD",
+                "n": "The Trade Desk, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 24706271812
+            },
+            {
+                "s": "SBAC",
+                "n": "SBA Communications Corporation",
+                "industry": "REIT - Specialty",
+                "marketCap": 24650347103
+            },
+            {
+                "s": "TYL",
+                "n": "Tyler Technologies, Inc.",
+                "industry": "Software - Application",
+                "marketCap": 24579358801
+            },
+            {
+                "s": "STT",
+                "n": "State Street Corporation",
+                "industry": "Asset Management",
+                "marketCap": 24500253232
+            },
+            {
+                "s": "LPLA",
+                "n": "LPL Financial Holdings Inc.",
+                "industry": "Capital Markets",
+                "marketCap": 24471639661
+            },
+            {
+                "s": "IP",
+                "n": "International Paper Company",
+                "industry": "Packaging & Containers",
+                "marketCap": 24430089247
+            },
+            {
+                "s": "CCL",
+                "n": "Carnival Corporation & plc",
+                "industry": "Travel Services",
+                "marketCap": 24373978678
+            },
+            {
+                "s": "WDS",
+                "n": "Woodside Energy Group Ltd",
+                "industry": "Oil & Gas Exploration & Production",
+                "marketCap": 24312816052
+            },
+            {
+                "s": "GDDY",
+                "n": "GoDaddy Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 24282117533
+            },
+            {
+                "s": "CNP",
+                "n": "CenterPoint Energy, Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 24255326179
+            },
+            {
+                "s": "FE",
+                "n": "FirstEnergy Corp.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 24250842252
+            },
+            {
+                "s": "FTS",
+                "n": "Fortis Inc.",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 24132864617
+            },
+            {
+                "s": "CUK",
+                "n": "Carnival Corporation & plc",
+                "industry": "Travel Services",
+                "marketCap": 24048073356
+            },
+            {
+                "s": "RKT",
+                "n": "Rocket Companies, Inc.",
+                "industry": "Mortgage Finance",
+                "marketCap": 24034083317
+            },
+            {
+                "s": "RYAAY",
+                "n": "Ryanair Holdings plc",
+                "industry": "Airlines",
+                "marketCap": 23874710415
+            },
+            {
+                "s": "BNTX",
+                "n": "BioNTech SE",
+                "industry": "Biotechnology",
+                "marketCap": 23699516603
+            },
+            {
+                "s": "GIB",
+                "n": "CGI Inc.",
+                "industry": "Information Technology Services",
+                "marketCap": 23587618453
+            },
+            {
+                "s": "DRI",
+                "n": "Darden Restaurants, Inc.",
+                "industry": "Restaurants",
+                "marketCap": 23430994974
+            },
+            {
+                "s": "LI",
+                "n": "Li Auto Inc.",
+                "industry": "Auto Manufacturers",
+                "marketCap": 23427132114
+            },
+            {
+                "s": "KEYS",
+                "n": "Keysight Technologies, Inc.",
+                "industry": "Scientific & Technical Instruments",
+                "marketCap": 23408912226
+            },
+            {
+                "s": "VRSN",
+                "n": "VeriSign, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 23334982000
+            },
+            {
+                "s": "VOD",
+                "n": "Vodafone Group Public Limited Company",
+                "industry": "Telecom Services",
+                "marketCap": 23304503807
+            },
+            {
+                "s": "CHKP",
+                "n": "Check Point Software Technologies Ltd.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 23294897704
+            },
+            {
+                "s": "FCNCA",
+                "n": "First Citizens BancShares, Inc.",
+                "industry": "Banks - Regional",
+                "marketCap": 23230362711
+            },
+            {
+                "s": "LVS",
+                "n": "Las Vegas Sands Corp.",
+                "industry": "Resorts & Casinos",
+                "marketCap": 23156185010
+            },
+            {
+                "s": "FCNCO",
+                "n": "First Citizens BancShares, Inc.",
+                "industry": "Banks - Regional",
+                "marketCap": 23087998360
+            },
+            {
+                "s": "ADM",
+                "n": "Archer-Daniels-Midland Company",
+                "industry": "Farm Products",
+                "marketCap": 22961044426
+            },
+            {
+                "s": "BEKE",
+                "n": "KE Holdings Inc.",
+                "industry": "Real Estate Services",
+                "marketCap": 22870005716
+            },
+            {
+                "s": "FITB",
+                "n": "Fifth Third Bancorp",
+                "industry": "Banks - Regional",
+                "marketCap": 22787338800
+            },
+            {
+                "s": "CBOE",
+                "n": "Cboe Global Markets, Inc.",
+                "industry": "Financial Data & Stock Exchanges",
+                "marketCap": 22729935429
+            },
+            {
+                "s": "PPG",
+                "n": "PPG Industries, Inc.",
+                "industry": "Specialty Chemicals",
+                "marketCap": 22708838345
+            },
+            {
+                "s": "TU",
+                "n": "TELUS Corporation",
+                "industry": "Telecom Services",
+                "marketCap": 22674058930
+            },
+            {
+                "s": "IX",
+                "n": "ORIX Corporation",
+                "industry": "Financial Conglomerates",
+                "marketCap": 22522607009
+            },
+            {
+                "s": "MKL",
+                "n": "Markel Group Inc.",
+                "industry": "Insurance - Property & Casualty",
+                "marketCap": 22480248185
+            },
+            {
+                "s": "HPQ",
+                "n": "HP Inc.",
+                "industry": "Computer Hardware",
+                "marketCap": 22464613181
+            },
+            {
+                "s": "FTV",
+                "n": "Fortive Corporation",
+                "industry": "Scientific & Technical Instruments",
+                "marketCap": 22268586173
+            },
+            {
+                "s": "VLTO",
+                "n": "Veralto Corporation",
+                "industry": "Pollution & Treatment Controls",
+                "marketCap": 22210554501
+            },
+            {
+                "s": "EIX",
+                "n": "Edison International",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 22096500157
+            },
+            {
+                "s": "DOV",
+                "n": "Dover Corporation",
+                "industry": "Specialty Industrial Machinery",
+                "marketCap": 22077990452
+            },
+            {
+                "s": "CVE",
+                "n": "Cenovus Energy Inc.",
+                "industry": "Oil & Gas Integrated",
+                "marketCap": 22031245423
+            },
+            {
+                "s": "PHG",
+                "n": "Koninklijke Philips N.V.",
+                "industry": "Medical Devices",
+                "marketCap": 22026029115
+            },
+            {
+                "s": "PBA",
+                "n": "Pembina Pipeline Corporation",
+                "industry": "Oil & Gas Midstream",
+                "marketCap": 22015879875
+            },
+            {
+                "s": "BBD",
+                "n": "Banco Bradesco S.A.",
+                "industry": "Banks - Regional",
+                "marketCap": 21898949006
+            },
+            {
+                "s": "BBDO",
+                "n": "Banco Bradesco S.A.",
+                "industry": "Banks - Regional",
+                "marketCap": 21898949006
+            },
+            {
+                "s": "STE",
+                "n": "STERIS plc",
+                "industry": "Medical Devices",
+                "marketCap": 21834272839
+            },
+            {
+                "s": "ZM",
+                "n": "Zoom Communications Inc.",
+                "industry": "Software - Application",
+                "marketCap": 21821168151
+            },
+            {
+                "s": "CMS",
+                "n": "CMS Energy Corporation",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 21808451246
+            },
+            {
+                "s": "TSN",
+                "n": "Tyson Foods, Inc.",
+                "industry": "Farm Products",
+                "marketCap": 21802657571
+            },
+            {
+                "s": "AU",
+                "n": "AngloGold Ashanti plc",
+                "industry": "Gold",
+                "marketCap": 21778088825
+            },
+            {
+                "s": "FOXA",
+                "n": "Fox Corporation",
+                "industry": "Entertainment",
+                "marketCap": 21750934348
+            },
+            {
+                "s": "CPAY",
+                "n": "Corpay, Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 21688258728
+            },
+            {
+                "s": "UAL",
+                "n": "United Airlines Holdings, Inc.",
+                "industry": "Airlines",
+                "marketCap": 21653617791
+            },
+            {
+                "s": "TDY",
+                "n": "Teledyne Technologies Incorporated",
+                "industry": "Scientific & Technical Instruments",
+                "marketCap": 21647908244
+            },
+            {
+                "s": "GFI",
+                "n": "Gold Fields Limited",
+                "industry": "Gold",
+                "marketCap": 21578349468
+            },
+            {
+                "s": "SW",
+                "n": "Smurfit Westrock Plc",
+                "industry": "Packaging & Containers",
+                "marketCap": 21499583341
+            },
+            {
+                "s": "KB",
+                "n": "KB Financial Group Inc.",
+                "industry": "Banks - Regional",
+                "marketCap": 21489243780
+            },
+            {
+                "s": "ERIE",
+                "n": "Erie Indemnity Company",
+                "industry": "Insurance Brokers",
+                "marketCap": 21488521255
+            },
+            {
+                "s": "IOT",
+                "n": "Samsara Inc.",
+                "industry": "Software - Infrastructure",
+                "marketCap": 21360898819
+            },
+            {
+                "s": "NVR",
+                "n": "NVR, Inc.",
+                "industry": "Residential Construction",
+                "marketCap": 21347353780
+            },
+            {
+                "s": "ES",
+                "n": "Eversource Energy",
+                "industry": "Utilities - Regulated Electric",
+                "marketCap": 21085184451
+            }
+        ]
