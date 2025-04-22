@@ -2,9 +2,9 @@ import requests, json, os
 
 
 class StockPrice:
-    def __init__(self, api_key=None, debug=False, base_url="https://finnhub.io/api/v1"):
+    def __init__(self, api_key=None, verbose=False, base_url="https://finnhub.io/api/v1"):
         self.api_key = api_key
-        self.verbose = debug
+        self.verbose = verbose
         self.base_url = base_url
         self.companyKeys = {}
         self.load_company_symbols()

@@ -34,8 +34,14 @@ def send_notification(notificationTitle, notificationMessage):
     except Exception as e:
         print(f'Issue sending Notification: {e}')
 async def main():
+    
+    # if there was any problem instantiating the class quit immediately 
+    try:
+        st = StockPrice()
+    except Exception as e:
+        print(f"{e}")
+        quit()
 
-    st = StockPrice()
     
     # tasks for asyncio
     tasks = []
